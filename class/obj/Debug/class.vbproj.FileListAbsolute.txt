@@ -1,0 +1,12 @@
+C:\VS\repos\class\class\bin\Debug\class.exe.config
+C:\VS\repos\class\class\bin\Debug\class.exe
+C:\VS\repos\class\class\bin\Debug\class.pdb
+C:\VS\repos\class\class\bin\Debug\class.xml
+C:\VS\repos\class\class\obj\Debug\class.vbprojAssemblyReference.cache
+C:\VS\repos\class\class\obj\Debug\class.Form1.resources
+C:\VS\repos\class\class\obj\Debug\class.Resources.resources
+C:\VS\repos\class\class\obj\Debug\class.vbproj.GenerateResource.cache
+C:\VS\repos\class\class\obj\Debug\class.vbproj.CoreCompileInputs.cache
+C:\VS\repos\class\class\obj\Debug\class.exe
+C:\VS\repos\class\class\obj\Debug\class.xml
+C:\VS\repos\class\class\obj\Debug\class.pdb
